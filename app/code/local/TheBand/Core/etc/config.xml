@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <global>
+        <models>
+            <core>
+                <rewrite>
+                    <store>TheBand_Core_Model_Store</store>
+                </rewrite>
+            </core>
+        </models>
+    </global>
+</config>
