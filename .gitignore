@@ -3,7 +3,6 @@
 /app/code/core/
 /app/design/
 /app/etc/config.xml
-/app/etc/local.xml
 /app/etc/local.xml.additional
 /app/etc/local.xml.template
 /app/etc/modules/Mage_All.xml
